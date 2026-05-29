@@ -1,0 +1,6 @@
+.venv/
+data/
+frontend-yew/target/
+frontend-yew/dist/
+backend/__pycache__/
+**/.DS_Store
